@@ -1,0 +1,29 @@
+Environment/Prop
+
+ANGELA
+Walls x3 (One tiled, two flat)
+Floor tiles
+Doorway
+Windows x2 in scene
+Weapon Display Cases x2 in scene
+Cube display case x2 in scene
+Cabinet
+Trash can 
+Fire Extinguisher 
+Exit sign
+Arrow Signs
+Tables x4 in scene
+
+COREY
+
+
+THOMAS
+
+
+Character Artist
+
+ADAM
+
+AISHA
+
+NATHANIEL
